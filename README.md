@@ -34,7 +34,7 @@ Este projeto foi criado com **JavaScript puro**, **HTML**, **CSS**, e o framewor
 
 ## 🌐 **Veja o Projeto Online!**
 
-Clique [aqui](https://orcamento-pessoal-deviury.netlify.app/) para acessar a aplicação e gerenciar suas despesas de forma prática e eficiente! 😊
+Clique [aqui]((https://orcamento-pessoal-deviury.netlify.app/)) para acessar a aplicação e gerenciar suas despesas de forma prática e eficiente! 😊
 
 ---
 
