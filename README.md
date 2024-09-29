@@ -22,7 +22,7 @@ Este projeto foi criado com **JavaScript puro**, **HTML**, **CSS**, e o framewor
 
 ## 🌟 **Como Usar?**
 
-1. Acesse a aplicação no [link online](#).
+1. Acesse a aplicação no [link online](https://orcamento-pessoal-deviury.netlify.app/).
 2. Preencha os campos com as informações da sua despesa.
 3. Clique em **Cadastrar** para salvar.
 4. Filtre suas despesas conforme necessário e mantenha seu orçamento sob controle!
@@ -34,7 +34,7 @@ Este projeto foi criado com **JavaScript puro**, **HTML**, **CSS**, e o framewor
 
 ## 🌐 **Veja o Projeto Online!**
 
-Clique [aqui]((https://orcamento-pessoal-deviury.netlify.app/)) para acessar a aplicação e gerenciar suas despesas de forma prática e eficiente! 😊
+Clique [aqui](https://orcamento-pessoal-deviury.netlify.app/) para acessar a aplicação e gerenciar suas despesas de forma prática e eficiente! 😊
 
 ---
 
